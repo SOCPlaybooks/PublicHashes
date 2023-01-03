@@ -155,3 +155,5 @@ a913856856b48478d7a99de462dbc30137191bc6  ransomware blackCat
 ab967d45fd6757ce0404155e3a92eb225e1593ef  ransomware blackCat
 ad7f7b07ea6429dc5ed2e83bd0e8f347875a4671  ransomware blackCat
 ac838556c813413afbb58880754baca9d11d1807  ransomware blackCat
+af3d6c03cda205ef1113d5f4babbd865e06280b3  ransomware blackCat
+b0b67aaa5d3d843fa0dab87a33a86f0cb9eda744  ransomware blackCat
