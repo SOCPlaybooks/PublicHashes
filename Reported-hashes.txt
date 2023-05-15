@@ -745,3 +745,4 @@ cd19c2741261de97e91943148ba8c0863567b461  Malware Bazaar
 e8bb26f62983055cfb602aa39a89998e8f512466  Malware Bazaar
 dc8b9bc46f1d23779d3835f2b3648c21f4cf6151  Malware Bazaar
 9290478cda302b9535702af3a1dada25818ad9ce  Malware Bazaar
+9fe9f4ee717bae3a5c9fdf1d380e015d  IOCs LockBit 2.0
