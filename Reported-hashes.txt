@@ -1194,3 +1194,7 @@ aa3162289e7e848b7aeb19c8b85131fd  JanelaRAT
 e166bd80341871c9d752537f80584334  JanelaRAT  
 b2aaee6945f75caa1c44bca3e2812993  JanelaRAT  
 537c6abb296ffc9d3fe2b6ed3a12c802  Phishing jeff@bobscarcorner.com
+00f6b34cc0143b92ea7f721fc187466c354b274ce6b4e66c13f4ccd21fa85c20  Mekotio
+ef0ac8855b569702e735ae53215fafbbebdc170176d7320d7565e1d7ba51a30c  Mekotio
+05b10fc19273045a3e70fa0057873643af289db75878949912c925163ad3c9fd  Python del malware Chaes.  / Chae$ 4
+d1885b4f515cea0d5c262c8d0b19db9c1cb7bc98efe761c4021fc4e40a9584d6  Python del malware Chaes.  / Chae$ 4
