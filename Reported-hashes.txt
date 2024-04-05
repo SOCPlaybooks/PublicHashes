@@ -2217,3 +2217,4 @@ d302c6cb2fa1c03c710fa5285651530f  CVE-2024-3094 - XZ
 35028f4b5c6673d6f2e1a80f02944fb2  CVE-2024-3094 - XZ
 540c665dfcd4e5cfba5b72b4787fec4f  CVE-2024-3094 - XZ
 5448850cdc3a7ae41ff53b433c2adbd0ff492515012412ee63a40d2685db3049  CVE-2024-3094 - XZ
+e9131d9413f1596b47e86e88dc5b4e4cc70a0a4ec2d39aa8f5a1a5698055adfc  Instalador de NordVPN falso distribuido por anuncios maliciosos en Google y Bing.
