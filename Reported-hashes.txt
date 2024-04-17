@@ -2219,3 +2219,4 @@ d302c6cb2fa1c03c710fa5285651530f  CVE-2024-3094 - XZ
 5448850cdc3a7ae41ff53b433c2adbd0ff492515012412ee63a40d2685db3049  CVE-2024-3094 - XZ
 e9131d9413f1596b47e86e88dc5b4e4cc70a0a4ec2d39aa8f5a1a5698055adfc  Instalador de NordVPN falso distribuido por anuncios maliciosos en Google y Bing.
 d0b987a2dd360ec468965e8ea0e55da1a9cde08837cd099b99d39441da003df6  Backdoor.py
+e1f5cdbac6db809cb06fe0279f2c7594  bypass Outlook
