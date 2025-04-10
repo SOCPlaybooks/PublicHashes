@@ -2467,3 +2467,6 @@ d2fcf28897ddc2137141d838b734664ff7592e03fcd467a433a51cb4976b4fb1  Extensiones ma
 dc4ca971c4c7df50c5aaee10082c75563151e4cabff67b0890156b4ea90379e0  Aplicativo Malicioso
 0487acd4841010b083c801d62d71062c25335577a1e953136e6fa2c098bd3b1b  RANSOM_Cryptolocker
 d3ed45f0dfadc24c76245b036b3b9738  New Double-Edged Email Attack Stealing Office365 Credentials and Deliver Malware
+8a17521918bc248d3ef11de3ba36926f  New Double-Edged Email Attack Stealing Office365 Credentials and Deliver Malware
+b9cd7bc4f514e595561509de2177e457  New Double-Edged Email Attack Stealing Office365 Credentials and Deliver Malware
+495c7845de1d5bd46884ef03d66d4447  New Double-Edged Email Attack Stealing Office365 Credentials and Deliver Malware
