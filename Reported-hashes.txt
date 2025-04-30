@@ -2470,3 +2470,8 @@ d3ed45f0dfadc24c76245b036b3b9738  New Double-Edged Email Attack Stealing Office3
 8a17521918bc248d3ef11de3ba36926f  New Double-Edged Email Attack Stealing Office365 Credentials and Deliver Malware
 b9cd7bc4f514e595561509de2177e457  New Double-Edged Email Attack Stealing Office365 Credentials and Deliver Malware
 495c7845de1d5bd46884ef03d66d4447  New Double-Edged Email Attack Stealing Office365 Credentials and Deliver Malware
+2e9fb32df9b7e36c32a6348f201655f3cc6e1843d4fbcd93174743ec64897e70  New Double-Edged Email Attack Stealing Office365 Credentials and Deliver Malware
+aae6ae55eba4ca78041c35694a65ac08a8e6ed54eb377398e93d6a985d7b1cc7  New Double-Edged Email Attack Stealing Office365 Credentials and Deliver Malware
+ec1c7f33fd871b544a2992c0af60cde0ffcc829e7bf73baad6470f4225761ef2  New Double-Edged Email Attack Stealing Office365 Credentials and Deliver Malware
+06df948c816fc30e69d3ea30733d0d11989c9bfd68f3d3919ceef3f8410ea1bb  New Double-Edged Email Attack Stealing Office365 Credentials and Deliver Malware
+c92eb28544ec2e367000e5734cbee18facffbb6ac48aed1147039f56f16278bb  phishing
