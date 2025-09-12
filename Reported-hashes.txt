@@ -2520,3 +2520,16 @@ C59F3C8D61D940B56436C14BC148C1FE98862921B8F7BAD97FBC96B31D71193C "Hashes asociad
 e15b1dc61bf6be3b7605837728463c41d7745aaca22adb38375896d481acc02b Hash de prueba2
 1df49e204f54f81041de911ae91cab1ccf0688e4 Hashes de prueba3
 02cede9f81600ce31853217c9e1e584f Hashes de prueba3
+ccd9be696aeef8d1e95a3355914ce63d "(RMM) ITarian, PDQ, SimpleHelp y Atera"
+41aa0c658eb32b02ccf69a53b5b66e0e "(RMM) ITarian, PDQ, SimpleHelp y Atera"
+881ad54e17e352291af8823d967f7a79 "(RMM) ITarian, PDQ, SimpleHelp y Atera"
+de833b2991446bcebcdfb82b0520e6f9 "(RMM) ITarian, PDQ, SimpleHelp y Atera"
+215ea19c5cb47a38824cbc615a4b7eb6 "(RMM) ITarian, PDQ, SimpleHelp y Atera"
+Bb727e1eeaf896f26d9dcb11c72ec6a9 "(RMM) ITarian, PDQ, SimpleHelp y Atera"
+6900e58c5d4b4fd1846f75cae53dcaff "(RMM) ITarian, PDQ, SimpleHelp y Atera"
+e9e87a2d1e05873efb5afa608570c02a "(RMM) ITarian, PDQ, SimpleHelp y Atera"
+a877415c738f8be2fb0fbf18e08526ff "(RMM) ITarian, PDQ, SimpleHelp y Atera"
+556b8633082fb8704cbbfc4623389a6f "(RMM) ITarian, PDQ, SimpleHelp y Atera"
+5cfc64ed01dae1e3a3158268753aa322 "(RMM) ITarian, PDQ, SimpleHelp y Atera"
+1cf39530d557ce880d7f71984928384f "(RMM) ITarian, PDQ, SimpleHelp y Atera"
+414f71c189eca4d94b79fd656e754d8a "(RMM) ITarian, PDQ, SimpleHelp y Atera"
