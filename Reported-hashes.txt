@@ -2580,3 +2580,7 @@ C74897B1E986E2876873ABB3B5069BF1B103667F7F0E6B4581FBDA3FD647A74A "ioc c2 velocir
 303579c1ca34e23f3e3c671ae023af63b8222a5c35e4244cd2fe8f50f5a11022 "Hashes asociados a campaña de phishing (Chino)"
 95661108d10ec8bbd4342b8098a3435e5e1d7be9608b14074ac5ed0be3a223a7 "Hashes asociados a campaña de phishing (Chino)"
 09d1e4a408c940903c6b1c4e9c620f687a03dd2aceb38edfc4161f012da6c129 "Hashes asociados a campaña de phishing (Chino)"
+a62e5fd8f069afbd2f36cc513088da82c84ba9b4632694b3f4a2750717086e58 Archivos asociados a campaña de phishing dirigido (Beneficios Dentales)
+8232b2397091873117a1f6afe5105407482b42c1c7276858b6b5244e6b9f1a61 Archivos asociados a campaña de phishing dirigido (Beneficios Dentales)
+bc18308bcfbbc7b8fc2190b72fce58c7f33b72cf1381077a7f20b79fc0089f38 Archivos asociados a campaña de phishing dirigido (Beneficios Dentales)
+7267027A6DC1D9F134F5B4F5EC93AE6DC576809DDD257C50CA935B357002D91A Archivos asociados a campaña de phishing dirigido (Beneficios Dentales)
