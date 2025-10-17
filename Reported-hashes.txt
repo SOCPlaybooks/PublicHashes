@@ -2584,3 +2584,5 @@ a62e5fd8f069afbd2f36cc513088da82c84ba9b4632694b3f4a2750717086e58 Archivos asocia
 8232b2397091873117a1f6afe5105407482b42c1c7276858b6b5244e6b9f1a61 Archivos asociados a campaña de phishing dirigido (Beneficios Dentales)
 bc18308bcfbbc7b8fc2190b72fce58c7f33b72cf1381077a7f20b79fc0089f38 Archivos asociados a campaña de phishing dirigido (Beneficios Dentales)
 7267027A6DC1D9F134F5B4F5EC93AE6DC576809DDD257C50CA935B357002D91A Archivos asociados a campaña de phishing dirigido (Beneficios Dentales)
+d2533111f2fde4e99d69b9cb46ae475c69c53f914134149e298ee3b55349adec "campaña de phishing dirigido (plan dental)"
+bc18308bcfbbc7b8fc2190b72fce58c7f33b72cf1381077a7f20b79fc0089f38 "campaña de phishing dirigido (plan dental)"
